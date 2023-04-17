@@ -1,0 +1,94 @@
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #007bff;
+  }
+  
+  .navbar-light .navbar-nav .active > .nav-link,
+  .navbar-light .navbar-nav .nav-link.active,
+  .navbar-light .navbar-nav .nav-link.show,
+  .navbar-light .navbar-nav .show > .nav-link {
+    background-color: #007bff;
+    color: #fff;
+  }
+  .my-navbar {
+    background-color: blue;
+  }
+  .carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  #about-us {
+    padding: 100px 0;
+  }
+  
+  #about-us img {
+    max-width: 100%;
+  }
+  
+  #about-us h2 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 30px;
+  }
+  
+  #about-us h3 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  #about-us p {
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 30px;
+  }
+  
+  #about-us ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #about-us li {
+    margin-bottom: 10px;
+  }
+  
+  #about-us a {
+    color: #000;
+    text-decoration: none;
+  }
+  #contact-us {
+    padding: 100px 0;
+  }
+  
+  #contact-us h2 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 30px;
+  }
+  
+  #contact-us p {
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 30px;
+  }
+  
+  #contact-us form label {
+    font-size: 18px;
+    font-weight: 700;
+  }
+  
+  #contact-us form input,
+  #contact-us form textarea {
+    margin-bottom: 20px;
+  }
+  
+  #contact-us form button {
+    margin-top: 20px;
+  }
+  
+  #contact-us iframe {
+    border: none;
+    margin-top: 20px;
+  }
+          
